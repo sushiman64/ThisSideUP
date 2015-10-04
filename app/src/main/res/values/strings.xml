@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Turn This Side UP</string>
+
+    <string name="hecho_mexico">FIRST SCREEN</string>
+    <string name="sushi">SECOND SCREEN</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second_screen">SecondScreen</string>
+
+    <string name="S2T1">SushiWare Studios</string>
+    <string name="title_activity_menu_screen">MenuScreen</string>
+    <string name="menu">menu</string>
+    <string name="title_activity_play_screen">Play</string>
+
+
+    <string name="Counter">0</string>
+    <string name="instruction">Instructions</string>
+    <string name="HiScore">Scores</string>
+    <string name="Instructions">Instructions</string>
+    <string name="TimeCounter">Time</string>
+    <string name="text_result">Top 3 Ranking</string>
+    <string name="instruction_lore">Keep Turning your phone with the requested side up until time is over.</string>
+    <string name="PlayerName">PLAYER</string>
+    <string name="TxtResult">Result:</string>
+    <string name="TickDescription">TickImage</string>
+    <string name="title_activity_hi_score_screen">HiScoreScreen</string>
+    <string name="title_activity_result_screen">ResultScreen</string>
+    <string name="title_activity_instruction_screen">InstructionScreen</string>
+    <string name="txtPlayAgain" >Play Again</string>
+    <string name="HeartDescrp">heart</string>
+    <string name="TxtQuit">Quit</string>
+    <string name="TxtMenu">Menu</string>
+    <string name="rank1">Rank 1</string>
+    <string name="rank2">Rank 2</string>
+    <string name="rank3">Rank 3</string>
+
+</resources>
